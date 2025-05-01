@@ -6,12 +6,25 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 
 ---
 
-## 🚀 About Me
+# 💳 Credit Card Fraud Detection Using Machine Learning
 
-- 🔬 I work on projects involving **data analysis**, **deep learning**, and **AI-based recommendation systems**
-- 📊 Skilled in **data preprocessing**, **NLP**, **model evaluation**, and **A/B testing**
-- 🧠 Interested in ethical AI, explainable models, and social-good applications
-- 🌍 Currently exploring: product review recommendations, healthcare insights, and real-time data pipelines
+This project focuses on building an end-to-end **credit card fraud detection pipeline** using advanced data preprocessing, visualization, and classification models, including **deep learning techniques**. It’s designed to detect fraudulent transactions in real-time with high precision.
+
+---
+
+## 📌 Objective
+
+To identify fraudulent credit card transactions using supervised machine learning and deep neural networks. The project tackles challenges like **data imbalance** and **feature selection**, and implements an effective fraud detection solution.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- 🔢 **Language:** Python 3.11+
+- 📦 **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK
+- 🧠 **Modeling:** Logistic Regression, Random Forest, BERT (optional), Deep Learning (PyTorch/Keras)
+- 📊 **Visualization:** Seaborn, Matplotlib
+- 📁 **Notebook Environment:** Jupyter Notebook
 
 ---
 
@@ -27,6 +40,29 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 
 ---
 
+## 🧪 Workflow
+
+1. **Data Preprocessing**
+   - Handling missing values and duplicates
+   - Addressing class imbalance using **SMOTE/undersampling**
+   - Feature engineering & standardization
+
+2. **Exploratory Data Analysis**
+   - Visualizing transaction distributions
+   - Correlation heatmaps
+   - Fraud vs. non-fraud comparison
+
+3. **Model Building**
+   - Train-test split
+   - Training baseline models (Logistic Regression, Decision Trees)
+   - Building a **deep learning model** (e.g., fully connected NN or BERT)
+   - Hyperparameter tuning
+
+4. **Model Evaluation**
+   - Confusion matrix, ROC-AUC, F1-score
+   - Classification report and performance plots
+
+---
 ## 📂 Featured Projects
 
 - 🔎 **Product Review Recommender**  
