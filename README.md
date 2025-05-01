@@ -63,18 +63,7 @@ To identify fraudulent credit card transactions using supervised machine learnin
    - Classification report and performance plots
 
 ---
-## 📂 Featured Projects
 
-- 🔎 **Product Review Recommender**  
-  *A content-based filtering system using TF-IDF and NLP to recommend helpful product reviews.*
-
-- 🧬 **Cancer Prediction (UAE Dataset)**  
-  *An end-to-end machine learning pipeline to classify cancer patients using structured clinical data.*
-
-- 🧪 **A/B Testing Simulator**  
-  *A tool to randomly assign users to experiments and analyze performance using statistical tests.*
-
----
 
 ## 📫 Let's Connect
 
