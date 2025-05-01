@@ -6,12 +6,29 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 
 ---
 
-## 🚀 About Me
+# 🧠 CancerUAE-Smina: Deep Learning-Enhanced Drug Docking
 
-- 🔬 I work on projects involving **data analysis**, **deep learning**, and **AI-based recommendation systems**
-- 📊 Skilled in **data preprocessing**, **NLP**, **model evaluation**, and **A/B testing**
-- 🧠 Interested in ethical AI, explainable models, and social-good applications
-- 🌍 Currently exploring: product review recommendations, healthcare insights, and real-time data pipelines
+Welcome to **CancerUAE-Smina**, a computational biology project integrating machine learning and molecular docking to support cancer research in the UAE. This notebook leverages **deep learning** techniques alongside **AutoDock Vina (Smina)** to predict potential interactions between anti-cancer compounds and protein targets.
+
+---
+
+## 🚀 Project Goals
+
+- Predict cancer-relevant drug-protein interactions using deep learning.
+- Perform molecular docking simulations to assess binding affinities.
+- Apply cheminformatics techniques for compound filtering and optimization.
+
+---
+
+## 🧪 Technologies Used
+
+- **Python 3.9+**
+- **TensorFlow / Keras** – Deep learning modeling
+- **RDKit** – Cheminformatics
+- **Pandas / NumPy** – Data manipulation
+- **Matplotlib / Seaborn** – Data visualization
+- **Smina (AutoDock Vina fork)** – Molecular docking
+- **Jupyter Notebook** – Research development and documentation
 
 ---
 
@@ -26,17 +43,12 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
+## 📊 Key Features
 
-## 📂 Featured Projects
-
-- 🔎 **Product Review Recommender**  
-  *A content-based filtering system using TF-IDF and NLP to recommend helpful product reviews.*
-
-- 🧬 **Cancer Prediction (UAE Dataset)**  
-  *An end-to-end machine learning pipeline to classify cancer patients using structured clinical data.*
-
-- 🧪 **A/B Testing Simulator**  
-  *A tool to randomly assign users to experiments and analyze performance using statistical tests.*
+- **Data Preparation**: Preprocessing of molecular data (SMILES) for deep learning input.
+- **Model Training**: Deep neural network to classify binding probability.
+- **Docking Pipeline**: Automated docking with smina using the best candidates from the model.
+- **Visualization**: Heatmaps, compound scatter plots, and docking affinity histograms.
 
 ---
 
