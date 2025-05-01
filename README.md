@@ -6,14 +6,32 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 
 ---
 
-## 🚀 About Me
+# Hotel Review Sentiment Analysis Using BERT
 
-- 🔬 I work on projects involving **data analysis**, **deep learning**, and **AI-based recommendation systems**
-- 📊 Skilled in **data preprocessing**, **NLP**, **model evaluation**, and **A/B testing**
-- 🧠 Interested in ethical AI, explainable models, and social-good applications
-- 🌍 Currently exploring: product review recommendations, healthcare insights, and real-time data pipelines
+This project uses **BERT (Bidirectional Encoder Representations from Transformers)** to perform sentiment analysis on hotel reviews. It walks through data preprocessing, BERT tokenization, model fine-tuning, evaluation, and visualization using PyTorch and HuggingFace Transformers.
 
 ---
+
+## 🔍 Project Overview
+
+- **Goal:** Classify hotel reviews as positive or negative based on customer feedback.
+- **Dataset:** Hotel review dataset (custom or publicly available).
+- **Model:** Pre-trained `bert-base-uncased` fine-tuned for binary sentiment classification.
+- **Tools Used:** Python, PyTorch, HuggingFace Transformers, NLTK, Seaborn, Matplotlib, Scikit-learn.
+
+---
+
+## 🚀 Key Features
+
+- NLP Preprocessing (tokenization, lemmatization, stopword removal)
+- Visual insights using Word Clouds for positive and negative reviews
+- Custom PyTorch Dataset class integrated with BERT tokenizer
+- Fine-tuning BERT for sequence classification
+- Evaluation metrics: Accuracy, confusion matrix, classification report
+- Training/validation loss visualization
+
+---
+
 
 ## 🛠️ Technologies & Tools
 
@@ -27,18 +45,6 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 
 ---
 
-## 📂 Featured Projects
-
-- 🔎 **Product Review Recommender**  
-  *A content-based filtering system using TF-IDF and NLP to recommend helpful product reviews.*
-
-- 🧬 **Cancer Prediction (UAE Dataset)**  
-  *An end-to-end machine learning pipeline to classify cancer patients using structured clinical data.*
-
-- 🧪 **A/B Testing Simulator**  
-  *A tool to randomly assign users to experiments and analyze performance using statistical tests.*
-
----
 
 ## 📫 Let's Connect
 
