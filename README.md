@@ -2,16 +2,6 @@
 
 🎯 **Aspiring Data Scientist/Data Anaylst | Machine Learning Enthusiast | Python Developer**
 
-Welcome to my GitHub profile! I’m passionate about turning raw data into impactful insights and intelligent solutions using AI and machine learning. I love exploring real-world problems, building clean and interpretable models, and making data-driven decisions.
-
----
-
-## 🚀 About Me
-
-- 🔬 I work on projects involving **data analysis**, **deep learning**, and **AI-based recommendation systems**
-- 📊 Skilled in **data preprocessing**, **NLP**, **model evaluation**, and **A/B testing**
-- 🧠 Interested in ethical AI, explainable models, and social-good applications
-- 🌍 Currently exploring: product review recommendations, healthcare insights, and real-time data pipelines
 
 ---
 
@@ -26,17 +16,35 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
+🚗 DriveAI: Smart Driving Behavior Analysis using Deep Learning
+📌 Overview
+DriveAI is a deep learning-based project developed to analyze and classify driving behavior using neural networks. The aim is to showcase how AI can enhance road safety and driver assistance systems through real-time decision-making and pattern recognition.
 
-## 📂 Featured Projects
+This project was built as part of a machine learning coursework to demonstrate end-to-end pipeline development — from data preprocessing to model evaluation.
 
-- 🔎 **Product Review Recommender**  
-  *A content-based filtering system using TF-IDF and NLP to recommend helpful product reviews.*
+---
 
-- 🧬 **Cancer Prediction (UAE Dataset)**  
-  *An end-to-end machine learning pipeline to classify cancer patients using structured clinical data.*
+🧠 Key Features
+🧹 Data preprocessing and feature engineering
 
-- 🧪 **A/B Testing Simulator**  
-  *A tool to randomly assign users to experiments and analyze performance using statistical tests.*
+🤖 Deep Neural Network built using TensorFlow/Keras
+
+📈 Performance tuning using multiple hyperparameter configurations
+
+📊 Visualization of training/validation metrics
+
+🗂️ Modular and clean code in Jupyter Notebook format
+
+---
+
+🛠️ Tech Stack
+Tool/Library	Purpose
+Python	Programming Language
+TensorFlow/Keras	Deep Learning Framework
+NumPy, Pandas	Data Handling
+Matplotlib/Seaborn	Data Visualization
+scikit-learn	Preprocessing, Metrics
+
 
 ---
 
