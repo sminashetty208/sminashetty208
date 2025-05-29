@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 - 🔬 I work on projects involving **data analysis**, **deep learning**, and **AI-based recommendation systems**
 - 📊 Skilled in **data preprocessing**, **NLP**, **model evaluation**, and **A/B testing**
 - 🧠 Interested in ethical AI, explainable models, and social-good applications
-- 🌍 Currently exploring: product review recommendations, healthcare insights, and real-time data pipelines
+- 🌍 Currently exploring: real-time data pipelines
 
 ---
 
