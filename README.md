@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I’m passionate about turning raw data into impac
 ## 📫 Let's Connect
 
 - 📧 Email: [smina.shetty208@gmail.com]
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/smina-shetty-a6575126b/]
+- 💼 LinkedIn: [=(https://www.linkedin.com/in/smina-shetty-a6575126b/](https://www.linkedin.com/in/smina-shetty-a6575126b/)]
 
 
 ---
