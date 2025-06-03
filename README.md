@@ -1,52 +1,46 @@
--# 👋 Hi, I'm Smina Shetty!
+# Hi, I'm Smina Shetty!
+🎯 Aspiring Data Scientist / Data Analyst | Machine Learning Enthusiast | Python Developer
 
-🎯 **Aspiring Data Scientist/Data Anaylst | Machine Learning Enthusiast | Python Developer**
+Welcome to my GitHub profile! I’m passionate about turning raw data into impactful insights and intelligent solutions using AI and machine learning. I enjoy solving real-world problems, building interpretable models, and making data-driven decisions.
 
-Welcome to my GitHub profile! I’m passionate about turning raw data into impactful insights and intelligent solutions using AI and machine learning. I love exploring real-world problems, building clean and interpretable models, and making data-driven decisions.
-
----
-
-## 🚀 About Me
-
-- 🔬 I work on projects involving **data analysis**, **deep learning**, and **AI-based recommendation systems**
-- 📊 Skilled in **data preprocessing**, **NLP**, **model evaluation**, and **A/B testing**
-- 🧠 Interested in ethical AI, explainable models, and social-good applications
-- 🌍 Currently exploring: real-time data pipelines
+🔀 Note: All my projects are organized in separate branches—check them out for full implementations!
 
 ---
 
-## 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC2D01?style=for-the-badge&logo=machinelearning&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+-Python Pandas Scikit-learn TensorFlow Keras XGBoost
+
+-PyTorch Seaborn Matplotlib Google Colab HuggingFace NLTK
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 
-- 🔎 **Product Review Recommender**  
-  *A content-based filtering system using TF-IDF and NLP to recommend helpful product reviews.*
+💳 Credit Card Fraud Detection
+Built a pipeline using ML and deep learning to detect fraudulent transactions, with class imbalance handling and performance tuning.
 
-- 🧬 **Cancer Prediction (UAE Dataset)**  
-  *An end-to-end machine learning pipeline to classify cancer patients using structured clinical data.*
+🧠 CancerUAE-Smina
+Combined deep learning and molecular docking to predict cancer drug-protein interactions using Smina and RDKit.
 
-- 🧪 **A/B Testing Simulator**  
-  *A tool to randomly assign users to experiments and analyze performance using statistical tests.*
+🚗 DriveAI
+Classifies driving behavior using a deep neural network model to enhance road safety through pattern recognition.
 
----
+🧾 Hotel Review Sentiment Analysis
+Used BERT with PyTorch to classify hotel reviews as positive or negative, with NLP preprocessing and fine-tuning.
 
-## 📫 Let's Connect
-
-- 📧 Email: [smina.shetty208@gmail.com]
-- 💼 LinkedIn: [=(https://www.linkedin.com/in/smina-shetty-a6575126b/](https://www.linkedin.com/in/smina-shetty-a6575126b/)]
-
+🛍️ Handy Mandy Services
+Web app for students to find part-time jobs and sell products. Built with HTML, CSS, PHP, and MySQL as part of an academic project.
 
 ---
 
-⭐️ *Feel free to explore my repositories, fork projects, or reach out for collaboration!*
+📫 Let's Connect
+
+📧 Email: smina.shetty208@gmail.com
+
+💼 LinkedIn: linkedin.com/in/smina-shetty-a6575126b
+
+----
+
+⭐️ Feel free to explore my repository, check project branches, fork them, or reach out for collaboration!
 
