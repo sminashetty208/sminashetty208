@@ -1,10 +1,3 @@
--# 👋 Hi, I'm Smina Shetty!
-
-🎯 **Aspiring Data Scientist/Data Anaylst | Machine Learning Enthusiast | Python Developer**
-
-Welcome to my GitHub profile! I’m passionate about turning raw data into impactful insights and intelligent solutions using AI and machine learning. I love exploring real-world problems, building clean and interpretable models, and making data-driven decisions.
-
----
 
 # 🧠 CancerUAE-Smina: Deep Learning-Enhanced Drug Docking
 
