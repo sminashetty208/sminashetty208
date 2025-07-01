@@ -43,6 +43,7 @@ ________________________________________
     
 •	Removed duplicates and nulls
 •	Cleaned text using regex, stopword removal, and lemmatization (NLTK)
+
 •	Added features:
 
 o	TF-IDF vectors (top 300 terms)
@@ -55,6 +56,7 @@ ________________________________________
 
 o	Rating Prediction (regression)
 o	Helpfulness Prediction (binary classification with synthetic labels)
+
 •	Performance:
 
 o	RMSE ≈ 0.85 (rating)
@@ -104,11 +106,11 @@ SmartReviewAI delivers an end-to-end solution for intelligent product review ana
 ________________________________________
 9. How to Run It
     
-1. Download both productreview_py.ipynb and amazon.csv.
+• Download both productreview_py.ipynb and amazon.csv.
 
-2. Make sure they are in the same directory.
+• Make sure they are in the same directory.
 
-3. Open the notebook and run all cells to launch the dashboard.
+• Open the notebook and run all cells to launch the dashboard.
 ________________________________________
 
  Strengths
