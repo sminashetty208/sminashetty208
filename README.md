@@ -102,6 +102,15 @@ ________________________________________
  
 SmartReviewAI delivers an end-to-end solution for intelligent product review analysis. By combining natural language processing, machine learning, semantic search, predictive modeling, and interactive visualization, it transforms unstructured review data into actionable business insights. This system supports better decision-making for both consumers and retailers.
 ________________________________________
+9. How to Run It
+    
+1. Download both productreview_py.ipynb and amazon.csv.
+
+2. Make sure they are in the same directory.
+
+3. Open the notebook and run all cells to launch the dashboard.
+________________________________________
+
  Strengths
  
 •	End-to-end pipeline from data ingestion to dashboard visualization
