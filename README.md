@@ -105,7 +105,7 @@ The dashboard helps:
 ________________________________________
  Conclusion
  
-SmartReviewAI delivers an end-to-end solution for intelligent product review analysis. By combining natural language processing, machine learning, semantic search, predictive modeling, and interactive visualization, it transforms unstructured review data into actionable business insights. This system supports better decision-making for both consumers and retailers.
+This project delivers an end-to-end solution for intelligent product review analysis. By combining natural language processing, machine learning, semantic search, predictive modeling, and interactive visualization, it transforms unstructured review data into actionable business insights. This system supports better decision-making for both consumers and retailers.
 ________________________________________
 9. How to Run It
     
