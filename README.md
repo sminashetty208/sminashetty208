@@ -114,8 +114,4 @@ Jupyter Notebook / Google Colab
 
 ---
 
-📫 Let's Connect
-📧 Email: smina.shetty208@gmail.com
-💼 LinkedIn: linkedin.com/in/smina-shetty-a6575126b
-
 
